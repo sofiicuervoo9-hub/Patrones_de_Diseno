@@ -5,8 +5,8 @@ Tareas resueltas de la Clase 3, aplicadas a **ViajaYa**, la empresa de viajes de
 ## Integrantes
 
 - Sofía Cuervo
-- _(completar)_
-- _(completar)_
+- Rosarito Gutierrez
+- Juan Martin Valverde
 
 ## Contenido
 
